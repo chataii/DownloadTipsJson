@@ -1,0 +1,295 @@
+{
+  "version": "1",
+  "country": "de",
+  "data": [
+    {
+      "position": "1",
+      "type": "ALLE",
+      "content": null
+    },
+    {
+      "position": "2",
+      "type": "Social Media",
+      "content": [
+        {
+          "mark": false,
+          "icon": "701",
+          "title": "Twitter Profil",
+          "text": "Erstelle fesselnde Twitter-Beiträge",
+          "defMsg": "Worüber ist dein Tweet?",
+          "prompt": "Schreibe einen kreativen und interessanten Tweet zu folgendem Thema: {placeholder1}. Du kannst Hashtags und Emojis hinzufügen."
+        },
+        {
+          "mark": false,
+          "icon": "702",
+          "title": "Tweets",
+          "text": "Fasse deinen Text in einem Tweet zusammen",
+          "defMsg": "Gib den Text ein, den du zusammenfassen möchtest",
+          "prompt": "Fasse diesen Text für einen Tweet zusammen, so dass der Tweet nicht mehr als 300 Zeichen enthält: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "703",
+          "title": "Instagram-Inhalte",
+          "text": "Erstelle Instagram-Beiträge zu jedem Thema",
+          "defMsg": "Worüber soll der Beitrag sein?",
+          "prompt": "Schreibe einen Beitrag für Instagram zu folgendem Thema: {placeholder1}"
+        },
+        {
+          "mark": false,
+          "icon": "704",
+          "title": "Instagram Reels",
+          "text": "Erhalte kreative Beschreibungen für deine Instagram Reels",
+          "defMsg": "Worum geht es in deinem Reel?",
+          "prompt": "Schreibe einen kreativen Beitrag für meine Reels auf Instagram zu folgendem Thema: {placeholder1}"
+        },
+        {
+          "mark": false,
+          "icon": "705",
+          "title": "TikTok",
+          "text": "Erstelle TikTok-Beiträge zu jedem Thema.",
+          "defMsg": "Worüber soll der Beitrag sein?",
+          "prompt": "Schreibe einen Beitrag für TikTok zu folgendem Thema: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "706",
+          "title": "TikTok",
+          "text": "Steigere deine TikTok-Aufrufe mit ansprechenden Untertiteln",
+          "defMsg": "Worum geht es in deinem Video?",
+          "prompt": "Schreibe einen kreativen Beitrag für mein TikTok-Video. Hier ist das Thema meines Videos: {placeholder1}"
+        },
+        {
+          "mark": false,
+          "icon": "707",
+          "title": "Beitrag",
+          "text": "Erstelle einen auffälligen Beitrag auf LinkedIn",
+          "defMsg": "Worüber ist dein LinkedIn-Beitrag?",
+          "prompt": "Schreibe einen Beitrag für mein LinkedIn. Mein Beitragsthema ist wie folgt: {placeholder1}"
+        },
+        {
+          "mark": false,
+          "icon": "708",
+          "title": "Jobsuche",
+          "text": "Hebe dein LinkedIn-Anschreiben hervor",
+          "defMsg": "Schreibe alles, was du für notwendig hältst, wie die gewünschte Position, deine Fähigkeiten, frühere Erfahrungen usw.",
+          "prompt": "Schreibe ein kurzes Anschreiben für LinkedIn. Bedingungen: {placeholder1}"
+        },
+        {
+          "mark": false,
+          "icon": "709",
+          "title": "Facebook-Beiträge",
+          "text": "Hebe dich auf Facebook mit einzigartigen Beiträgen hervor",
+          "defMsg": "Worüber soll der Beitrag sein?",
+          "prompt": "Schreibe einen kurzen Facebook (Meta) Beitrag zu folgendem Thema: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "7010",
+          "title": "Vitalität",
+          "text": "Schreibe eine überzeugende Beschreibung für dein YouTube-Video",
+          "defMsg": "Worum geht es in deinem Video?",
+          "prompt": "Schreibe eine kleine Beschreibung für mein YouTube-Video. Es sollte Hashtags enthalten, um die Suchergebnisse zu verbessern. Der Betreff meines Videos ist: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "7011",
+          "title": "Drehbücher",
+          "text": "Erstelle ein kurzes kreatives Drehbuch für dein Video zu jedem Thema",
+          "defMsg": "Worüber ist dein Video?",
+          "prompt": "Erstelle ein kurzes kreatives Drehbuch für ein YouTube-Video zu einem gegebenen Thema. Thema: {placeholder1}."
+        }
+      ]
+    },
+    {
+      "position": "3",
+      "type": "Kommunikation",
+      "content": [
+        {
+          "mark": false,
+          "icon": "501",
+          "title": "Kaffee-Date",
+          "text": "Deine geliebte Freundin zum Kaffee einladen",
+          "defMsg": "Wie heißt deine Freundin?",
+          "prompt": "Schreibe eine unbeschwerte Nachricht mit einem Angebot, gemeinsam eine Tasse Kaffee oder Tee in einem gemütlichen Café zu trinken. Name meiner Partnerin: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "502",
+          "title": "Höfliche Ablehnung",
+          "text": "Ein Date würdevoll ablehnen",
+          "defMsg": "Wie heißt dein Date?",
+          "prompt": "Bereite 3 höfliche Antworten vor, um eine Date-Einladung abzulehnen, aber danke ihnen für ihre Ehrlichkeit. Name des Partners: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "503",
+          "title": "Party-Einladung",
+          "text": "Freunde zu einer Hausparty einladen",
+          "defMsg": "Wie heißt ein Freund, den du einladen möchtest?",
+          "prompt": "Schreibe eine herzliche Nachricht, um meine Freunde zu einer Wochenend-Dinnerparty zu Hause einzuladen. Name eines meiner Freunde: {placeholder1}"
+        },
+        {
+          "mark": false,
+          "icon": "504",
+          "title": "Lerngruppe",
+          "text": "Eine Lerngruppe bilden",
+          "defMsg": "Wie heißt der Klassenkamerad, den du zur Lerngruppe einladen möchtest?",
+          "prompt": "Schreibe eine Nachricht, um einen Vorschlag zu machen, eine Lerngruppe mit Klassenkameraden zu bilden, um sich auf die bevorstehende Prüfung vorzubereiten. Name eines Klassenkameraden: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "505",
+          "title": "Wochenend-Wanderung",
+          "text": "Eine Wandertour planen",
+          "defMsg": "Welchen Freund möchtest du zur Teilnahme an der Wanderung motivieren?",
+          "prompt": "Lade Freund {placeholder1} zu einer Wochenendwanderung in einem nahegelegenen Gebirge ein."
+        },
+        {
+          "mark": false,
+          "icon": "506",
+          "title": "Freundschaft pflegen",
+          "text": "Wiedersehen mit einem alten Freund",
+          "defMsg": "Wie heißt der alte Freund, den du seit Jahren nicht gesehen hast?",
+          "prompt": "Entwerfe eine Nachricht an einen alten Freund {placeholder1}, den ich seit Jahren nicht gesehen habe, und schlage ein Treffen vor, um alte Zeiten aufleben zu lassen."
+        }
+      ]
+    },
+    {
+      "position": "4",
+      "type": "Bildung",
+      "content": [
+        {
+          "mark": false,
+          "icon": "601",
+          "title": "Geschichte",
+          "text": "Erfahre, welche historischen Ereignisse an einem bestimmten Tag stattgefunden haben",
+          "defMsg": "An welchem Tag bist du interessiert?",
+          "prompt": "Du bist TimeGPT, die Zeitmaschine. Ich werde das Datum angeben, du musst 3 berühmte historische Ereignisse beschreiben, die an diesem Tag stattgefunden haben. Was geschah {placeholder1}?"
+        },
+        {
+          "mark": false,
+          "icon": "602",
+          "title": "Sprachenlernen",
+          "text": "Eine neue Sprache lernen",
+          "defMsg": "Welche Sprache möchtest du lernen?",
+          "prompt": "Übe und verbessere grundlegende Konversationsfähigkeiten in dieser Sprache: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "603",
+          "title": "Mathe",
+          "text": "Löse jede Gleichung im Nu",
+          "defMsg": "Gib deine Gleichung ein?",
+          "prompt": "Löse diese Gleichung und erkläre alle Schritte: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "604",
+          "title": "Aufsatz",
+          "text": "Lasse einen gut strukturierten Aufsatz speziell für dich schreiben",
+          "defMsg": "Worüber ist dein Aufsatz?",
+          "prompt": "Schreibe einen Aufsatz im klassischen Format über: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "605",
+          "title": "Umschreiben",
+          "text": "Erstelle einzigartige Neufassungen mit hoher Textauthentizität",
+          "defMsg": "Gib deinen Text ein",
+          "prompt": "Mache eine originelle Neufassung dieses Textes: {placeholder1}."
+        }
+      ]
+    },
+    {
+      "position": "5",
+      "type": "Spaß",
+      "content": [
+        {
+          "mark": false,
+          "icon": "800",
+          "title": "Musik teilen",
+          "text": "Lied-Empfehlung",
+          "defMsg": "Welches Lied möchtest du hören?",
+          "prompt": "Du bist jemand, der gerne Musik teilt. Das Lied, das ich hören möchte, ist: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "801",
+          "title": "Kochherausforderung",
+          "text": "Ein neues Rezept ausprobieren",
+          "defMsg": "Welches Rezept möchtest du ausprobieren?",
+          "prompt": "Du bist ein Essensliebhaber, der gerne kocht. Das Rezept, das ich ausprobieren möchte, ist: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "802",
+          "title": "Reiseplanung",
+          "text": "Ein Reiseziel wählen",
+          "defMsg": "Wohin möchtest du reisen?",
+          "prompt": "Du bist ein Reiseliebhaber, der gerne Reisen plant. Das Reiseziel, zu dem ich gehen möchte, ist: {placeholder1}."
+        }
+      ]
+    },
+    {
+      "position": "6",
+      "type": "Arbeit",
+      "content": [
+        {
+          "mark": false,
+          "icon": "900",
+          "title": "Lebenslauf aktualisieren",
+          "text": "Berufserfahrung verbessern",
+          "defMsg": "Welche neue Berufserfahrung musst du deinem Lebenslauf hinzufügen?",
+          "prompt": "Die neue Berufserfahrung, die ich meinem Lebenslauf hinzufügen muss, ist: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "901",
+          "title": "Freier Tag",
+          "text": "Freizeit beantragen",
+          "defMsg": "Was machst du beruflich?",
+          "prompt": "Finde 5 verschiedene und realistische Gründe für eine Abwesenheit von der Arbeit, erläutere jeden einzeln. Schreibe sie, als ob du ein verantwortungsbewusster Mitarbeiter bist, der sich aber ausruhen möchte. Mein Beruf: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "902",
+          "title": "Arbeitsmarkt",
+          "text": "Finde die ungefähren Anforderungen für einen Job heraus",
+          "defMsg": "An welcher Position bist du interessiert?",
+          "prompt": "Welche Qualitäten und Fähigkeiten, Bildung sind notwendig, um einen Job zu bekommen. Mache eine kurze Liste. Ich möchte werden: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "903",
+          "title": "Vorstellungsgespräch",
+          "text": "Erhalte eine kurze Liste von Fragen, die ein Personalvermittler dir stellen könnte",
+          "defMsg": "Auf welche Position möchtest du dich bewerben?",
+          "prompt": "Schreibe eine kurze Liste von Rekrutierungsfragen von einem Personalvermittler. Fachgebiet: {placeholder1}."
+        }
+      ]
+    },
+    {
+      "position": "7",
+      "type": "Gaming",
+      "content": [
+        {
+          "mark": false,
+          "icon": "1001",
+          "title": "Rollenspiel",
+          "text": "Einen Charakter erstellen",
+          "defMsg": "Wie ist der Charakter, den du erschaffst?",
+          "prompt": "Du bist ein Rollenspieler, der einen neuen Charakter erstellt. Der Charakter, den ich erstelle, ist: {placeholder1}."
+        },
+        {
+          "mark": false,
+          "icon": "1002",
+          "title": "AI Gamer",
+          "text": "Alle deine Gaming-Fragen beantwortet bekommen",
+          "defMsg": "Frage, was du willst",
+          "prompt": "Ich möchte, dass du ein kluger AI bist und dich wie ein professioneller Gamer verhältst. Du musst alle meine Fragen im Gamer-Stil beantworten und mich in allen Angelegenheiten beraten. Du sollst meine Worte nicht beenden, sondern nur Fragen ohne jegliche Erläuterungen beantworten. Meine erste Frage: {placeholder1}?"
+        }
+      ]
+    }
+  ]
+}
