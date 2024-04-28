@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "type": "Life",
+      "descriptions": [
+        {
+          "title": "Improvise recipes out of ingredients",
+          "content": "I have tomatoes, penne pasta, and garlic. Give me a recipe to make with this. [Change ingredients based on your inventory]"
+        },
+        {
+          "title": "Plan meals in advance",
+          "content": "Help me plan one week’s worth of dinner. I’m a vegetarian who wants to involve pasta in this."
+        },
+        {
+          "title": "Decide on a party menu",
+          "content": "I am looking for a party menu for 7 people. Give me a recipe breakdown including portion sizes."
+        },
+        {
+          "title": "Help in Baking",
+          "content": "Give me 5 recipes for loaves of bread I can bake at home. I have a Microwave oven with convection."
+        },
+        {
+          "title": "Get dessert ideas",
+          "content": "I had a bad day. Give me 5 dessert ideas I should make or order out."
+        },
+        {
+          "title": "Healthy recipe suggestions",
+          "content": "I require someone who can suggest delicious recipes that includes foods that are nutritionally beneficial but also easy & not time-consuming enough therefore suitable for busy people like us among other factors such as cost-effectiveness so overall dish ends up being healthy yet economical at the same time! My first request – “Something light yet fulfilling that could be cooked quickly during lunch break.”"
+        },
+        {
+          "title": "Explore different cuisines",
+          "content": "I want to try something new and exotic. What’s a good recipe for a dish from a different cuisine?"
+        },
+        {
+          "title": "Breakfast ideas",
+          "content": "Give me 5 healthy breakfast ideas I can incorporate into my diet every day."
+        },
+        {
+          "title": "Suggest meals on a calorie budget",
+          "content": "I only have 1500 calories to eat. Suggest 10 different dishes I can eat this week without passing this threshold"
+        }
+      ]
+    }
+  ]
+}
