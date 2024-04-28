@@ -1,13 +1,1 @@
-{
-  "items":[
-    {
-      "type":"Life",
-      "descriptions":[
-        {
-          "title":"Improvise recipes out of ingredients",
-          "content":"I have tomatoes, penne pasta, and garlic. Give me a recipe to make with this. [Change ingredients based on your inventory]"
-        }
-      ]
-    }
-  ]
-}
+{"items":[{"type":"Life","descriptions":[{"title":"Improvise recipes out of ingredients","content":"I have tomatoes, penne pasta, and garlic. Give me a recipe to make with this. [Change ingredients based on your inventory]"}]}]}
