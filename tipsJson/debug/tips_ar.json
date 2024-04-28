@@ -1,9 +1,13 @@
 {
-  "ver" : 1,
-  "data": [
+  "items":[
     {
-      "type" : -1,
-      "file_name" : "robot_create_image.png"
+      "type":"Life",
+      "descriptions":[
+        {
+          "title":"Improvise recipes out of ingredients",
+          "content":"I have tomatoes, penne pasta, and garlic. Give me a recipe to make with this. [Change ingredients based on your inventory]"
+        }
+      ]
     }
   ]
 }
