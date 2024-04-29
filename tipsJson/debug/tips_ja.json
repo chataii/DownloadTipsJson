@@ -1,7 +1,7 @@
 {
   "items": [
 {
-  "type": "生活",
+  "type": "Life",
   "descriptions": [
     {
       "title": "持ち合わせの材料でレシピを考える",
@@ -42,7 +42,7 @@
   ]
 },
 {
-  "type": "ロールプレイング",
+  "type": "Role Playing",
   "descriptions": [
     {
       "title": "猫耳少女",
@@ -87,7 +87,7 @@
       ]
     },
 {
-  "type": "ゲーム",
+  "type": "Game",
   "descriptions": [
     {
       "title": "ハングマンゲーム",
